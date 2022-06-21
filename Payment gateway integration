@@ -1,0 +1,13 @@
+Sparks foundation web development internship project.
+Payment integration system.A web application used to transfer virtual money between users and once payment done an in voce will be generated.
+The website has the following specification.
+1.Home page
+2.Donate button.
+3.The user will land on payment page.
+4.Select amount to be paid.
+5.Select payment type.
+6.Once payment done.
+7.Invoice will be generated.
+Flow:Home page>Donate button>The user will land on payment page>Select amount to be paid>Select payment type>Once payment done>Invoice will be generated.
+Task#3
+#GRIPJUNE 2022
